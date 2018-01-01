@@ -1,5 +1,5 @@
 # ArduinoStarterProjects
 
-# Code for Projects from the Arduino Starter Kit Project Book
+Code for Projects from the Arduino Starter Kit Project Book
 
-# https://store.arduino.cc/genuino-starter-kit
+https://store.arduino.cc/genuino-starter-kit
